@@ -17,5 +17,5 @@ function printWithSleep(message: string) {
   console.log("END of function body");
 }
 
-printStraightforwardly("Hello world!");
-// printWithSleep("Hello world!");
+// printStraightforwardly("Hello world!");
+printWithSleep("Hello world!");
